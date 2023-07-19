@@ -1,0 +1,17 @@
+<!doctype html>
+<html>
+<head> Charles Diggs, CTI110-0003
+<title>Contact</title>
+<body>
+<h1><p>Contact</p></h1>
+<br> <br>
+<h2><p>Are you interested in connecting with me? Contact me through these outlets!!
+<br>
+Phone Number: 9198370274 <br>
+Email: cdiggs101@icloud.com <br>
+Instagram: charlesd912
+LinkedIn: Charles Diggs
+<br>
+This file is my own work and I typed everything manually, Diggs <p></h2>
+<body>
+<html>
